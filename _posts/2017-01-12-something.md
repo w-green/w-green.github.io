@@ -14,4 +14,4 @@ Something is cooking.
 <a href="http://ojp.nationalrail.co.uk/service/ldbboard/dep/BTN" target="_blank">live departures from Brighton</a>
 
 
-<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=50.8418949&lon=0.2770231&name=Shoreham by sea&units=uk"> </iframe>
+<iframe id="forecast_embed" type="text/html" frameborder="0" height="245" width="100%" src="https://forecast.io/embed/#lat=50.8418949&lon=0.2770231&name=Shoreham by sea&units=uk"> </iframe>
